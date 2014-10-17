@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gos:home|Door43 (gos)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gos|d43-gos repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gos/archive/master.zip|d43-gos.zip]]
+
+**Recent Changes**
+{{changes>ns = gos}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gos|Ethnologue data]]
+
